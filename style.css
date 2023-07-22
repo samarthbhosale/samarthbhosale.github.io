@@ -13,3 +13,25 @@
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background: linear-gradient(to right, rgba(196, 113, 245, 1), rgba(250, 113, 205, 1))
 }
+
+.btn-first{
+  border: none;
+  border-radius:10%;
+  box-shadow: 0 0 8px rgb(36, 35, 35);
+  background-image: linear-gradient(to right top, #ee54be, #f63fa1, #f92a83, #f71664, #f01045);
+}
+
+section, header{
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.-navbadge{
+  margin-right: auto;
+  text-shadow:2px 2px 8px#000000;
+}
+
+.shadowhunter{
+  border: none;
+  box-shadow: 0 0 8px rgb(36, 35, 35);
+}
