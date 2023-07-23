@@ -74,3 +74,32 @@ img.opacity {
 .wrapper {
   background-color: rgb(255, 255, 255, 0.25);
 }
+
+.mainhead{
+  /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 60px;
+  color: crimson; */
+
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 65px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-shadow: #000000;
+  border: #000000;
+  border-color: #000000;
+  color: #e81e39;
+  background-image: -webkit-linear-gradient(45deg, #e81e39 12%, #abb2bf 49%, #228af2 77%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.cardsize{
+  height: 670px;
+}
